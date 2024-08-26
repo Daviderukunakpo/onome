@@ -1,0 +1,10 @@
+git ignore
+git clone
+git clean
+git switch
+git add .
+git checkout
+git log
+git commit -m"message"
+git command
+git switch -b
